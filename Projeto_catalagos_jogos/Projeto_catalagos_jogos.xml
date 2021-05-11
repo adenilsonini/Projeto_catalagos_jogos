@@ -1,0 +1,71 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Projeto_catalagos_jogos</name>
+    </assembly>
+    <members>
+        <member name="M:Projeto_catalagos_jogos.Controllers.v1.JogosController.GetAllJogos(System.Int32,System.Int32)">
+            <summary>
+            Lista todos os jogos cadastrados no banco de dados
+            </summary>
+            <remarks>
+            Não é possível retornar o jogos sem paginação
+            </remarks>
+            <param name="pagina">Indica qual página está sendo consultada: Mínimo 1</param>
+            <param name="qtde">Indica a quantidade de registros por página: Mínimo 1 e máximo 5</param>
+            <response code="200">Retorna a lista de jogos</response>
+            <response code="204">Retorna se não houver nenhum jogos cadastrado</response>
+        </member>
+        <member name="M:Projeto_catalagos_jogos.Controllers.v1.JogosController.GetByIdJogos(System.Int32)">
+             <summary>
+             Pesquisa jogos por Id
+             </summary>
+             <remarks>
+             O Id do jogo é obrigatório na Consulta
+             </remarks>
+            
+        </member>
+        <member name="M:Projeto_catalagos_jogos.Controllers.v1.JogosController.InserirJogo(Projeto_catalagos_jogos.Models.Jogos_input)">
+            <summary>
+            Rotina para Cadastra Novo jogo
+            </summary>
+            <remarks>
+            O campo de Nome, Desenvolvedora, Ano Lancamento, Classificação, Audio e Preço são obrigatórios.
+            O nome do jogo deve conter no mínimo 3 e no máximo 250 caracter.
+            O nome da Desenvolvedora deve conter no mínimo 5 e no máximo 250 caracter.
+            O campo Ano lançamento Só aceita número
+            O nome da Classificação deve conter no mínimo 1 e no máximo 50 caracter.
+            O nome da Audio deve conter no mínimo 1 e no máximo 50 caracter.
+            O preço deve ser de no mínimo R$ 1,00 e no máximo 1000,00
+            </remarks>
+            
+        </member>
+        <member name="M:Projeto_catalagos_jogos.Controllers.v1.JogosController.AtualizarJogos(System.Int32,Projeto_catalagos_jogos.Models.Jogos_input)">
+            <summary>
+            Rotina para Alterar o Cadastro do Jogo
+            </summary>
+            <remarks>
+            Obrigatórios Informar o Id para alterar as informações do jogo
+            </remarks>
+            
+        </member>
+        <member name="M:Projeto_catalagos_jogos.Controllers.v1.JogosController.Atualizar_preco(System.Int32,System.Int32)">
+            <summary>
+            Rotina para alterar somente o preço do jogo
+            </summary>
+            <remarks>
+            Obrigatórios informar o ID e o Preço do jogo
+            </remarks>
+            
+        </member>
+        <member name="M:Projeto_catalagos_jogos.Controllers.v1.JogosController.ExcluirJogos(System.Int32)">
+            <summary>
+            Rotina para Excluir um jogo cadastrado
+            </summary>
+            <remarks>
+            Obrigatórios informar o Id do jogo para excluir
+            </remarks>
+            
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,109 @@
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.csprojAssemblyReference.cache
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.AssemblyInfoInputs.cache
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.AssemblyInfo.cs
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.csproj.CoreCompileInputs.cache
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\appsettings.json
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.exe
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.deps.json
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.runtimeconfig.json
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.runtimeconfig.dev.json
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\ref\Projeto_catalagos_jogos.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.pdb
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\staticwebassets\Projeto_catalagos_jogos.StaticWebAssets.Manifest.cache
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\staticwebassets\Projeto_catalagos_jogos.StaticWebAssets.xml
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\scopedcss\bundle\Projeto_catalagos_jogos.styles.css
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.RazorTargetAssemblyInfo.cache
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.csproj.CopyComplete
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\ref\Projeto_catalagos_jogos.dll
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.pdb
+C:\Users\adeni\source\repos\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.genruntimeconfig.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.csprojAssemblyReference.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.AssemblyInfoInputs.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.AssemblyInfo.cs
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.csproj.CoreCompileInputs.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.MvcApplicationPartsAssemblyInfo.cs
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.MvcApplicationPartsAssemblyInfo.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\ref\Projeto_catalagos_jogos.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.pdb
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\appsettings.Development.json
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\appsettings.json
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.exe
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.deps.json
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.runtimeconfig.json
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.runtimeconfig.dev.json
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\ref\Projeto_catalagos_jogos.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.pdb
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Bcl.HashCode.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\staticwebassets\Projeto_catalagos_jogos.StaticWebAssets.Manifest.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\staticwebassets\Projeto_catalagos_jogos.StaticWebAssets.xml
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\scopedcss\bundle\Projeto_catalagos_jogos.styles.css
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.RazorTargetAssemblyInfo.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.csproj.CopyComplete
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\obj\Debug\net5.0\Projeto_catalagos_jogos.genruntimeconfig.cache
+D:\projetos vb\DIO_Project\Projeto_catalagos_jogos\Projeto_catalagos_jogos\bin\Debug\net5.0\Projeto_catalagos_jogos.xml
